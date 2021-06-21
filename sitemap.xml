@@ -1,303 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
->
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
- <loc>https://github.com/liziliao/ASNE</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
+  <loc>https://liziliao.github.io/</loc>
+  <lastmod>2021-06-21T02:42:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://liziliao.github.io/papers/CV_LIZI.pdf</loc>
+  <lastmod>2021-06-21T02:42:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://liziliao.github.io/papers/2021sigir_mmconv.pdf</loc>
+  <lastmod>2021-06-21T02:42:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://liziliao.github.io/papers/2021www_dst.pdf</loc>
+  <lastmod>2021-06-21T02:42:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://liziliao.github.io/papers/2020tacl_redst.pdf</loc>
+  <lastmod>2021-06-21T02:42:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://liziliao.github.io/papers/2019www_MultimediaDST_dialog.pdf</loc>
+  <lastmod>2021-06-21T02:42:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
-<url>
- <loc>https://github.com/liziliao/KERN</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://github.com/liziliao/FashionKE</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://arxiv.org/abs/2005.03297</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://amritasaha1812.github.io/MMD/</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://link.springer.com/chapter/10.1007/978-3-030-37731-1_33</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://clustrmaps.com/site/1bifc</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://arxiv.org/abs/2004.09731</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://github.com/liziliao/ASNE/tree/master/data</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://liziliao.github.io/papers/2021www_dst.pdf</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://liziliao.github.io/papers/IJCAI 2017 dataset.zip</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://github.com/budzianowski/multiwoz/tree/master/data</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://ijcai-21.org/</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://arxiv.org/abs/1812.10021</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://github.com/robertsdionne/neural-network-papers</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://arxiv.org/abs/1705.04969</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://ieeexplore.ieee.org/document/9138776</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://liziliao.github.io/papers/CV_LIZI.pdf</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>http://www.nextcenter.org/</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://liziliao.github.io/papers/2019www_MultimediaDST_dialog.pdf</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>http://staff.ustc.edu.cn/~hexn/</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://www.google.com/url?q=https%3A%2F%2Fwww.chuatatseng.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHiUFEgU6zR2HwGsytD8DRKlG8IaQ</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://isep.nus.edu.sg/</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>http://staff.ustc.edu.cn/~hexn/papers/mm18-multimodal-dialog.pdf</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://arxiv.org/abs/1908.08985</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://github.com/liziliao/neural_collaborative_filtering</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://ieeexplore.ieee.org/document/7498313</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://github.com/liziliao</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>http://www.comp.nus.edu.sg/undergraduates/useful_course_schedule.html</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://arxiv.org/abs/1708.05031</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://dl.acm.org/doi/10.1145/3240508.3240646</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://scholar.google.com.sg/citations?user=W2b08EUAAAAJ&amp;hl=en</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://liziliao.github.io/</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://ieeexplore.ieee.org/document/9387151</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://ink.library.smu.edu.sg/sis_research/2414/</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://github.com/liziliao/MMConv</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://liziliao.github.io/papers/2020tacl_redst.pdf</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://arxiv.org/abs/1908.04045</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://liziliao.github.io/papers/2021sigir_mmconv.pdf</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://liziliao.github.io/to add</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
-
-<url>
- <loc>https://www.ijcai.org/Proceedings/2017/44</loc>
- <priority>0.3</priority>
- <lastmod>2021-06-20</lastmod>
- <changefreq>daily</changefreq>
-</url>
 
 </urlset>
