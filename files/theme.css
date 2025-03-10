@@ -69,5 +69,7 @@ ul.pub {
     padding-right: 15px;
 	padding-left: 15px;
 }
-
+a {
+    color: cornflowerblue; !important;
+}
 
