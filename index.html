@@ -63,6 +63,55 @@
 			font-weight: bold;
 		}
 		.navbar .nav > li > a { cursor: pointer; }
+
+		/* KakiPal highlight button: sits to the left of the profile photo. */
+		.kakipal-highlight {
+			float: right;
+			display: block;
+			max-width: 175px;
+			margin: 10px 30px 10px 10px;
+			padding: 12px 16px 13px;
+			text-align: center;
+			background: linear-gradient(160deg, #fdfafa, #f7ecee);
+			border: 1px solid #e6d4d4;
+			border-radius: 12px;
+			box-shadow: 0 2px 6px rgba(139, 35, 52, 0.12);
+			text-decoration: none;
+			transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+		}
+		.kakipal-highlight:hover,
+		.kakipal-highlight:focus {
+			transform: translateY(-2px);
+			border-color: #c9a2aa;
+			box-shadow: 0 5px 12px rgba(139, 35, 52, 0.22);
+			text-decoration: none;
+		}
+		.kakipal-highlight .kakipal-badge {
+			display: inline-block;
+			background-color: #8b2334;
+			color: #ffffff;
+			font-size: 10px;
+			font-weight: bold;
+			letter-spacing: 1.5px;
+			padding: 2px 9px;
+			border-radius: 9px;
+			margin-bottom: 6px;
+		}
+		.kakipal-highlight .kakipal-name {
+			display: block;
+			color: #8b2334;
+			font-size: 17px;
+			font-weight: bold;
+			letter-spacing: 0.5px;
+			margin-bottom: 3px;
+		}
+		.kakipal-highlight .kakipal-desc {
+			display: block;
+			color: #7a6a6d;
+			font-size: 12px;
+			font-weight: normal;
+			line-height: 1.35;
+		}
 	</style>
 
 	<!--[if lt IE 9]>
@@ -79,6 +128,12 @@
 			<h4><strong>Lizi Liao</strong> &nbsp;&nbsp;&nbsp;&nbsp;
 
 			<img class="img-thumbnail-lizi" height="250" hspace="10" src="./files/lizi_profile_image.jpg" style="float:right">
+
+			<a class="kakipal-highlight" href="https://www.kakipal.com/" target="_blank" rel="noopener">
+				<span class="kakipal-badge">NEW</span>
+				<span class="kakipal-name">&#127891; KakiPal</span>
+				<span class="kakipal-desc">Our teaching &amp; learning platform &mdash; check it out!</span>
+			</a>
 
 			</h4>
 			Assistant Professor (Tenure-Track)<br>
